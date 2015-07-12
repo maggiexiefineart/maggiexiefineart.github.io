@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "drawings, designs and photography from my fine art portfolio"
   image:
+
+- title: About
+  url: /about/
+  excerpt: "about Maggie Xie"
+  image:
+
+- title: Contact
+  url: /contact/
+  excerpt: "contact Maggie Xie"
+  image: 
