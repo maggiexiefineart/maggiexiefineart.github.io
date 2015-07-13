@@ -2,15 +2,15 @@
 
 - title: Portfolio
   url: /portfolio/
-  excerpt: "drawings, designs and photography from my fine art portfolio"
-  image:
+  excerpt: "Paintings, drawings, installation, mixed media and multimedia."
+  image: plant.jpg
 
 - title: About
   url: /about/
-  excerpt: "about Maggie Xie"
-  image:
+  excerpt: "About Maggie Xie"
+  image: donut.jpg
 
 - title: Contact
   url: /contact/
-  excerpt: "contact Maggie Xie"
-  image: 
+  excerpt: "Contact Maggie Xie"
+  image: marble.jpg
